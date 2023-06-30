@@ -1,9 +1,11 @@
 {
   "name": "merge",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Module to export the merge function",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
+    "setup": "npm i && tsc",
     "test": "jest"
   },
   "keywords": [],
