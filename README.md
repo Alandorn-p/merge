@@ -1,3 +1,8 @@
+### Files
+* Merge function found in src/index.ts
+* tests found in test/index.test.ts
+
+
 ### Installation
 
 1. Clone the repo
